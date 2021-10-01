@@ -4,7 +4,7 @@
 ## Features
 
 - Click to hear the sound of alphabet with a example
-- you can select differnt language and voice as per your convenience
+- you can select different language and voice as per your convenience
 - You can use this tool without downloading any app, any signup and registration are not required for using this tool.
 
   
