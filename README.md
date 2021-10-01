@@ -1,4 +1,4 @@
-# Alphabet
+# Alphabet-tutor
 
  Learning the alphabet as the foundation of our spoken language gives us the advantage of knowing how letters and words are pronounced, how to think in a language, and how to spell in that language. This website will help you and teach you how to recognize the letters and sounds of the alphabet 
 ## Features
