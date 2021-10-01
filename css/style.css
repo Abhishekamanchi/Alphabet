@@ -35,6 +35,7 @@ header{
 .nav-list li{
     display: inline-block;
     padding: 0 50px;
+    margin-top: 8px;
     text-transform: uppercase;
     font-family: 'Galindo', cursive;
 }
