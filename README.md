@@ -3,7 +3,7 @@
  Learning the alphabet as the foundation of our spoken language gives us the advantage of knowing how letters and words are pronounced, how to think in a language, and how to spell in that language. This website will help you and teach you how to recognize the letters and sounds of the alphabet 
 ## Features
 
-- Click to hear the sound of alphabet
+- Click to hear the sound of alphabet with a example
 - you can select differnt language and voice as per your convenience
 - You can use this tool without downloading any app, any signup and registration are not required for using this tool.
 
